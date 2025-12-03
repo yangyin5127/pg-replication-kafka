@@ -1,7 +1,7 @@
 # pg-replication-kafka
 PostgreSQL logical replication to Kafka
 
-[go-binlog-kafka](https://github.com/feiin/go-binlog-kafka)PostgreSQL版本,将pg数据库的WAL日志解析成JSON推送至Kafka消息队列
+[go-binlog-kafka](https://github.com/yangyin5127/go-binlog-kafka)PostgreSQL版本,将pg数据库的WAL日志解析成JSON推送至Kafka消息队列
 
 ## Getting Started
 
